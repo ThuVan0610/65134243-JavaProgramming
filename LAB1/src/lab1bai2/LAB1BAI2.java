@@ -11,7 +11,7 @@ public class LAB1BAI2 {
 		System.out.print("Nhập chiều rộng hình chữ nhật: ");
 		double crong = scanner.nextDouble();
 		
-		double chuvi = (cdai + crong) *2;
+		double chuvi = (cdai + crong) * 2;
 		double dientich = cdai * crong;
 		double canhnhonhat = Math.min(cdai, crong);
 		
